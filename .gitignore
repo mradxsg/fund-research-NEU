@@ -1,0 +1,22 @@
+# Maven
+target/
+
+# IDE (STS/Eclipse)
+.apt_generated
+.classpath
+.project
+.settings/
+.springBeans
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+.factorypath
