@@ -58,9 +58,9 @@ npm run dev
 - 启动服务：`ollama serve`
 - 后端默认连接 `http://localhost:11434`，无需额外配置。
 
-### 鸿蒙元服务运行
+### 鸿蒙APP运行
 - 使用 **DevEco Studio** 打开 `harmonyos/` 目录。
-- 根据需要修改 `entry/src/main/ets/common/constants/Constants.ets` 中的后端接口地址。
+- 根据需要修改成果APP内的后端接口地址。
 - 连接模拟器或真机，点击 **Run** 编译运行。
 
 ## 使用说明
