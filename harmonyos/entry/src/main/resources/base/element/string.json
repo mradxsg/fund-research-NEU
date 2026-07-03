@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "widget_name",
+      "value": "基金净值"
+    },
+    {
+      "name": "widget_desc",
+      "value": "查看基金的最新单位净值和涨跌幅"
+    }
+  ]
+}
